@@ -1,0 +1,50 @@
+[
+{
+  "inOut":0,
+  "data":"01.02",
+  "paskolosKodas":2,
+  "suma":443
+},
+{
+  "inOut":1,
+  "data":"01.03",
+  "paskolosKodas":2,
+  "suma":300
+},
+{
+  "inOut":0,
+  "data":"01.05",
+  "paskolosKodas":1,
+  "suma":260
+},
+{
+  "inOut":1,
+  "data":"01.08",
+  "paskolosKodas":4,
+  "suma":1337
+},
+{
+  "inOut":1,
+  "data":"01.11",
+  "paskolosKodas":5,
+  "suma":609
+},
+{
+  "inOut":0,
+  "data":"01.11",
+  "paskolosKodas":5,
+  "suma":1000
+},
+  {
+    "inOut":1,
+  "data":"01.11",
+  "paskolosKodas":3,
+  "suma":1000
+},
+  {
+    "inOut":1,
+    "data":"01.11",
+    "paskolosKodas": 3,
+    "suma":420
+  }
+]

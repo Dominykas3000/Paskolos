@@ -1,0 +1,27 @@
+{
+  "1":{
+    "kodasId":1,
+    "pavadinimas":"Technikai",
+    "procentai":2
+  },
+  "2":{
+    "kodasId":2,
+    "pavadinimas":"Verslui",
+    "procentai":5
+  },
+  "3":{
+    "kodasId":3,
+    "pavadinimas":"Namams",
+    "procentai":3
+  },
+  "4":{
+    "kodasId":4,
+    "pavadinimas":"Remontui",
+    "procentai":10
+  },
+  "5":{
+    "kodasId":5,
+    "pavadinimas":"Automobiliui",
+    "procentai":5
+  }
+}
